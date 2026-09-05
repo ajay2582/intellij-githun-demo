@@ -10,4 +10,5 @@ public class DemoIntellijDemoApplication {
         SpringApplication.run(DemoIntellijDemoApplication.class, args);
     }
 // commented line
+    // commented
 }
